@@ -1,0 +1,12 @@
+appname="闪讯云盘(测试版)"
+appver="0.0.6"
+appcode="1"
+packagename="com.shanxun.cloud.app"
+theme="Theme_Material_Light_NoActionBar"
+debugmode=true
+welcome_time="0"
+user_permission={
+  "INTERNET",
+  "READ_EXTERNAL_STORAGE",
+  "WRITE_EXTERNAL_STORAGE"
+}
